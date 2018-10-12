@@ -1,0 +1,8 @@
+IP: 5.255.253.21 TIME: Sep 8 2:41:10 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 95.108.181.93 TIME: Sep 8 2:41:10 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 103.58.144.16 TIME: Sep 8 2:57:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/16A5366a Safari/604.1
+IP: 141.8.142.68 TIME: Sep 8 7:43:03 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 87.250.224.130 TIME: Sep 8 13:43:03 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 141.8.142.164 TIME: Sep 8 13:43:04 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 66.249.93.192 TIME: Sep 8 14:16:01 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 27.34.104.43 TIME: Sep 8 16:31:33 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1

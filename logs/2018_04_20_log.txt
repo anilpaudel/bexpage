@@ -1,0 +1,2 @@
+IP: 54.67.59.131 TIME: Apr 20 19:45:14 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 213.180.203.30 TIME: Apr 20 20:54:22 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)

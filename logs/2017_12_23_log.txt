@@ -1,0 +1,6 @@
+IP: 5.45.207.65 TIME: Dec 23 2:52:05 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 213.180.203.33 TIME: Dec 23 2:52:05 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 163.47.149.190 TIME: Dec 23 7:32:30 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+IP: 27.34.16.106 TIME: Dec 23 9:10:08 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+IP: 13.56.229.65 TIME: Dec 23 13:24:46 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 13.56.229.65 TIME: Dec 23 23:38:20 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36

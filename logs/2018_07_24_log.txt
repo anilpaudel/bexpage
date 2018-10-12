@@ -1,0 +1,14 @@
+IP: 66.249.81.80 TIME: Jul 24 2:44:37 2018 REFERRER: android-app://com.google.android.googlequicksearchbox/https/www.google.com SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 5 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+IP: 163.47.149.154 TIME: Jul 24 3:18:29 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+IP: 103.5.150.3 TIME: Jul 24 4:05:39 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0
+IP: 141.8.142.154 TIME: Jul 24 5:49:43 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 37.9.113.151 TIME: Jul 24 5:49:43 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 27.34.104.152 TIME: Jul 24 8:01:57 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0
+IP: 27.34.104.152 TIME: Jul 24 10:08:20 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0
+IP: 27.34.16.162 TIME: Jul 24 10:31:15 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+IP: 5.45.207.7 TIME: Jul 24 10:56:36 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 163.47.149.154 TIME: Jul 24 13:25:27 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+IP: 43.245.86.101 TIME: Jul 24 14:36:02 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+IP: 27.34.104.152 TIME: Jul 24 16:14:12 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+IP: 27.34.104.152 TIME: Jul 24 16:14:40 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+IP: 27.34.104.33 TIME: Jul 24 17:39:52 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36

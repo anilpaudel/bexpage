@@ -1,0 +1,11 @@
+IP: 13.57.233.99 TIME: Oct 4 0:31:39 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 110.34.31.28 TIME: Oct 4 9:27:04 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+IP: 37.9.113.175 TIME: Oct 4 12:59:58 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 178.154.200.49 TIME: Oct 4 13:00:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 110.44.120.209 TIME: Oct 4 14:33:56 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+IP: 66.249.93.211 TIME: Oct 4 15:58:05 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 66.249.70.10 TIME: Oct 4 17:28:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.66.68 TIME: Oct 4 18:20:27 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 213.180.203.7 TIME: Oct 4 19:00:33 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 66.249.66.79 TIME: Oct 4 20:45:27 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.70.10 TIME: Oct 4 22:24:33 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)

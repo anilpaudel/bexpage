@@ -1,0 +1,19 @@
+IP: 66.249.81.71 TIME: Sep 13 1:42:37 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U1 Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+IP: 66.249.81.65 TIME: Sep 13 1:44:32 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U1 Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+IP: 213.180.203.7 TIME: Sep 13 5:09:51 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 37.9.113.174 TIME: Sep 13 5:09:51 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 87.250.224.55 TIME: Sep 13 6:29:13 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 103.10.31.97 TIME: Sep 13 7:26:42 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 103.10.31.97 TIME: Sep 13 7:31:22 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 27.34.20.87 TIME: Sep 13 9:21:02 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1; HUAWEI TIT-AL00 Build/HUAWEITIT-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+IP: 103.10.31.97 TIME: Sep 13 9:32:47 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 103.10.31.97 TIME: Sep 13 9:33:27 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 103.10.31.97 TIME: Sep 13 12:43:36 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 128.199.207.123 TIME: Sep 13 12:44:10 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+IP: 141.8.132.9 TIME: Sep 13 13:54:05 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 87.250.224.54 TIME: Sep 13 13:54:05 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 178.154.200.21 TIME: Sep 13 14:05:51 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 66.249.93.222 TIME: Sep 13 16:59:26 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 13.57.233.99 TIME: Sep 13 21:48:21 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 141.8.142.18 TIME: Sep 13 22:06:28 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 178.154.246.8 TIME: Sep 13 22:06:29 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)

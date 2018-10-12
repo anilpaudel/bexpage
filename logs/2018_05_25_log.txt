@@ -1,0 +1,27 @@
+IP: 202.51.69.53 TIME: May 25 15:58:30 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:09:13 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:17:12 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:18:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:18:51 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:18:55 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:22:57 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:23:28 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:23:49 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:28:52 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:30:52 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:43:37 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 103.5.150.3 TIME: May 25 16:44:12 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+IP: 202.51.69.53 TIME: May 25 16:44:43 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 27.34.104.238 TIME: May 25 16:45:14 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 202.51.69.53 TIME: May 25 16:48:46 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:49:03 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:50:30 2018 REFERRER: http://m.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/173.0.0.62.99;]
+IP: 110.44.124.143 TIME: May 25 16:52:57 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 110.44.124.143 TIME: May 25 16:55:32 2018 REFERRER: http://www.anilpaudel.tk/puzzle.html SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 16:56:19 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 43.245.86.33 TIME: May 25 17:03:51 2018 REFERRER: http://m.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.0.0; F5122 Build/34.4.A.2.70; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/173.0.0.62.99;]
+IP: 103.95.19.47 TIME: May 25 17:21:57 2018 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 202.51.69.53 TIME: May 25 17:59:04 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 107.178.195.216 TIME: May 25 19:25:46 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)
+IP: 107.178.195.216 TIME: May 25 19:25:46 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)
+IP: 107.178.195.217 TIME: May 25 19:25:46 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)

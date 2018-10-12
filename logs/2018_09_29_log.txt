@@ -1,0 +1,5 @@
+IP: 66.249.64.194 TIME: Sep 29 2:48:30 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.64.197 TIME: Sep 29 2:48:54 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.64.198 TIME: Sep 29 2:57:20 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.64.212 TIME: Sep 29 5:31:08 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 2a03:2880:30ff:7::face:b00c TIME: Sep 29 11:55:10 2018 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)

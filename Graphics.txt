@@ -1,0 +1,79 @@
+COMPUTER GRAPHICS
+EX
+Lecture : 3 Year : III
+Tutorial : 1 Part : I
+Practical : 1.5
+Course Objectives:
+To familiarize with graphics hardware, line and curve drawing techniques,
+techniques for representing and manipulating geometric objects, illumination
+and lighting models. .
+1. Introduction and application [2 hours]
+History of computer graphics, Applications of computer graphics, Hardware:
+Raster‐Scan Displays, Vector Displays, Hard copy devices, Input Hardwares,
+Display Architectures, Applications in various fields like medicine,
+engineering, art, uses in virtual realism.
+2. Scan‐Conversion [6 hours]
+2.1. Scan‐Converting A Point
+2.2. Scan‐Converting A Straight Line: DDA Line Algorithm, Bresenham's Line
+Algorithm
+2.3. Scan‐Converting a Circle and an Ellipse: Mid‐Point Circle and Ellipse
+Algorithm
+3. Two –Dimensional Transformations [6 hours]
+3.1. Two –dimensional translation, rotation, scaling, reflection, shear
+transforms
+3.2. Two‐dimensional composite transformation
+3.3. Two‐dimensional viewing pipeline, world to screen viewing
+transformations and clipping (Cohen‐Sutherland Line Clipping, Liang‐
+Barsky Line Clipping)
+3.4. Three‐Dimensional Graphics [6 hours]
+3.5. Three –dimensional translation, rotation, scaling, reflection, shear
+transforms
+3.6. Three‐dimensional composite transformation
+3.7. Three‐dimensional viewing pipeline, world to screen viewing
+transformation, projection concepts (orthographic, parallel,
+perspective projections)
+4. Curve Modeling [4 hours]
+Introduction to Parametric cubic Curves, Splines, Bezier curves
+5. Surface modeling [4 hours]
+Polygon surface, vertex table, edge table, polygon table, surface normal and
+spatial orientation of surfaces
+6. Visible Surface Determination [6 hours]
+6.1. Image Space and Object Space techniques
+6.2. Back Face Detection, Z‐Buffer, A‐Buffer, Scan‐Line method
+7. Illumination and Surface Rendering methods [8 hours]
+7.1. Algorithms to simulate ambient, diffuse and specular reflections
+7.2. Constant , Gouraud and phong shading models
+8. Introduction to Open GL [3 hours]
+Introduction to OpenGl, callback functions, Color commands, drawing
+pixels, lines, and polygons using OpenGL, Viewing, Lighting.
+Practical:
+There shall be 5 to 6 lab exercise including following concepts:
+1. DDA Line Algorithm
+2. Bresenham’s Line algorithm
+3. Mid Point Circle Algorithm
+4. Mid Point Ellipse Algorithm
+5. Lab on 2‐D Transformations
+6. Basic Drawing Techniques in OpenGL
+Text Book:
+Donald Hearn and M. Pauline Baker, “Computer Graphics C version (2nd edition)”
+Reference
+1. Donald D. Hearn and M. Pauline Baker, “Computer Graphics with OpenGL
+(3rd Edition)”
+2. Foley, Van Dam, Feiner, Hughes “Computer Graphics Principles and Practice
+(Second Edition in C”)
+Evaluation Scheme:
+The question will cover all the chapters of the syllabus. The evaluation scheme
+will be as indicated in the table below:
+Units Hrs
+Mark
+Distribution
+1 2 4
+2 6 10
+3 6 10
+4 6 10
+5 4 8
+6 4 8
+7 6 10
+8 8 14
+9 3 6
+Total 45 80

@@ -1,0 +1,2 @@
+IP: 202.70.70.212 TIME: Dec 16 11:25:05 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 Chrome/51.0.2704.106 Mobile Safari/537.36
+IP: 54.183.130.127 TIME: Dec 16 14:22:07 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36

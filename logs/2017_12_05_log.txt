@@ -1,0 +1,5 @@
+IP: 5.255.253.19 TIME: Dec 5 2:03:38 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 141.8.142.72 TIME: Dec 5 2:03:39 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 87.250.224.82 TIME: Dec 5 2:23:19 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 27.34.104.227 TIME: Dec 5 7:03:53 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+IP: 27.34.104.227 TIME: Dec 5 7:07:33 2017 REFERRER: http://anilpaudel.tk/puzzle.html SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0

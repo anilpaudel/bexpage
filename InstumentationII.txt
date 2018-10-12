@@ -1,0 +1,167 @@
+
+INSTRUMENTATION II
+EX
+Lecture : 3 Year : III
+Tutorial : 1 Part : I
+Practical : 3/2
+Course Objective:
+• Continuation of INSTRUMENTATION I with emphasis on advance system
+design and case studies.
+• To introduce and apply the knowledge of microprocessor, A/D, D/A
+converter to design Instrumentation system.
+• To provide the concept on interfacing with microprocessor based system
+and circuit design techniques.
+1. Microprocessor Based Instrumentation System (4 hours)
+1.1. Basic Features of Microprocessor Based System
+1.2. Open Loop and Closed Loop Microprocessor Based System
+1.3. Benefits of Microprocessor Based System
+1.4. Microcomputer on Instrumentation Design
+1.5. Interfacing With Microprocessor
+1.5.1. PC Interfacing Techniques
+1.5.2. Review of Address Decoding
+1.5.3. Memory Interfacing
+1.5.4. Programmed I/O, Interrupt Driven I/O and Direct Memory
+Access (DMA)
+2. Parallel Interfacing With Microprocessor Based System (4 hours)
+2.1. Methods of Parallel Data Transfer : Simple Input and Output, Strobe
+I/O, Single Handshake I/O, & Double Handshake I/O
+2.2. 8255 as General Purpose Programmable I/O Device and its interfacing
+examples
+2.3. Parallel Interfacing with ISA and PCI bus
+3. Serial Interfacing With Microprocessor Based System (6 hours)
+3.1. Advantages of Serial Data Transfer Over Parallel
+3.2. Synchronous and Asynchronous Data Transfer
+3.3. Errors in Serial Data Transfer
+3.4. Simplex, Half Duplex and Full Duplex Data Communication
+3.5. Parity and Baud Rates
+3.6. Introduction Serial Standards RS232, RS423, RS422
+3.7. Universal Serial Bus
+3.7.1. The Standards: ‐ USB 1.1 and USB 2.0
+3.7.2. Signals, Throughput & Protocol
+3.7.3. Devices, Hosts And On‐The‐Go
+3.7.4. Interface Chips:‐ USB Device And USB Host
+4. Interfacing A/D And D/A Converters (4 hours)
+4.1. Introduction
+4.2. General Terms Involved in A/D and D/A Converters
+4.3. Examples of A/D and D/A Interfacing
+4.4. Selection of A/D and D/A Converters Based on Design Requirements
+5. Data Acquisition And Transmission (5 hours)
+5.1. Analog and Digital Transmission
+5.2. Transmission Schemes
+5.2.1. Fiber Optics
+5.2.2. Satellite
+5.2.3. Bluetooth Devices
+5.3. Data Acquisition System
+5.3.1. Data Loggers
+5.3.2. Data Archiving and Storage
+6. Grounding And Shielding (3 hours)
+6.1. Outline for Grounding and Shielding
+6.2. Noise, Noise Coupling Mechanism and Prevention
+6.3. Single Point Grounding and Ground Loop
+6.4. Filtering and Smoothing
+6.5. Decoupling Capacitors and Ferrite Beads
+6.6. Line Filters, Isolators and Transient Suppressors
+6.7. Different Kinds of Shielding Mechanism
+6.8. Protecting Against Electrostatic Discharge
+6.9. General Rules For Design
+7. Circuit Design (3 hours)
+7.1. Converting Requirements into Design
+7.2. Reliability and Fault Tolerance
+7.3. High Speed Design
+7.3.1. Bandwidth, Decoupling, Ground Bounce, Crosstalk, Impedance
+Matching, and Timing
+7.4. Low Power Design
+7.5. Reset and Power Failure Detection and interface Unit
+8. Circuit Layout (3 hours)
+8.1. Circuits Boards and PCBs
+8.2. Component Placement
+8.3. Routing Signal Tracks
+8.3.1. Trace Density, Common Impedance, Distribution of Signals and
+Return, Transmission Line Concerns, Trace Impedance and
+Matching, and Avoiding Crosstalk.
+8.4. Ground ,Returns and Shields
+8.5. Cables and Connectors
+8.6. Testing and Maintenance
+9. Software For Instrumentation And Control Applications (4 hours)
+9.1. Types of Software, Selection and Purchase
+9.2. Software Models and Their Limitations
+9.3. Software Reliability
+9.4. Fault Tolerance
+9.5. Software Bugs and Testing
+9.6. Good Programming Practice
+9.7. User Interface
+9.8. Embedded and Real Time Software
+10. Case Study (9 hours)
+Examples chosen from local industrial situations with particular attention paid to
+the basic measurement requirements, accuracy, and specific hardware
+employed environmental conditions under which the instruments must operate,
+signal processing and transmission, output devices:
+a) Instrumentation for a power station including all electrical and nonelectrical
+parameters.
+b) Instrumentation for a wire and cable manufacturing and bottling plant.
+c) Instrumentation for a beverage manufacturing and bottling plant.
+d) Instrumentation for a complete textile plant; for example, a cotton mill
+from raw cotton through to finished dyed fabric.
+e) Instrumentation for a process; for example, an oil seed processing plant
+from raw seeds through to packaged edible oil product.
+f) Instruments required for a biomedical application such as a medical clinic or
+hospital.
+g) Other industries can be selected with the consent of the Subject teacher.
+Practical:
+The laboratory exercises deal interfacing techniques using microprocessor or
+microcontrollers. There will be about six lab sessions which should cover at least
+following:
+1. Simple and Handshake data transfer using PPI.
+2. Basic I/O device interfacing like keyboard, seven segments, motors etc
+3. Analog to Digital interfacing
+4. Digital to Analog interfacing
+5. Design exercise (small group project)
+Study in detail the instrumentation requirements of a particular proposed or
+existing industrial plant and design an instrumentation and data collection
+system for that particular industrial plant. The final report should present the
+instrumentation requirements in terms of engineering specifications, the
+hardware solution suggested, a listing of the particular devices chosen to satisfy
+the requirements, appropriate system flow diagrams, wiring diagrams, etc. to
+show how the system would be connected and operated.
+References:
+• D. V. Hall, “Microprocessor and Interfacing, Programming and Hardware”
+Revised 2nd Edition 2006, Tata McGraw Hill
+• K.R. Fowler, “Electronic Instrument Design: Architecting for the Life Cycle”,
+Oxford University Press, Inc. 1996
+• Ramesh S. Gaonkar, “Microprocessor Architecture, Programming and
+Application with 8085”, 5th Edition 2002, Prentice Hall
+• A.K. Ray & K.M. Bhurchandi, “Advanced Microprocessors And Peripherals”,
+2nd Edition 2006, Tata McGraw Hill
+• E.O. Duebelin, “Measurement System Application And Design”,5th Edition,
+Tata McGraw Hills
+• John Hyde, "USB Design By Example", Intel Press
+• PCI bus, USB, 8255,Bluetooth datasheets
+• D. M. Consodine, "Process Instruments and Controls Handbook", 3rd
+Edition, McGraw‐Hill,New York, 1985.
+• S. Wolf and R. F. Smith, "Student Reference Manual for Electronic
+Instrumentation Laboratories", Prentice Hall, Englewood Cliffs, New Jersey,
+1990.
+• S. E. Derenzo, "Interfacing: A Laboratory Approach Using the
+Microcomputer for Instrumentation, Data Analysis, and Control", Prentice
+Hall, Englewood Cliffs, New Jersey, 1990.
+Evaluation Scheme:
+The question will cover all the chapters of the syllabus. The evaluation scheme
+will be as indicated in the table below
+Unit Hour
+Marks
+Distribution
+1 4 8
+2 4 8
+3 6 10
+4 4 8
+5 5 8
+6 3 6
+7 3 6
+8 3 6
+9 4 8
+10 9 12
+Total 45 80
+Note: There can be slight deviation in marks allocation.
+
+
+

@@ -1,0 +1,9 @@
+IP: 64.233.173.144 TIME: Jan 2 12:30:57 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.1.1; TA-1032 Build/NMF26O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36
+IP: 116.68.212.232 TIME: Jan 2 12:32:28 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+IP: 2a03:2880:1110:8fc9:face:b00c:0:8000 TIME: Jan 2 12:32:34 2018 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 202.50.52.11 TIME: Jan 2 12:32:35 2018 REFERRER: http://m.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI SCC-U21 Build/HuaweiSCC-U21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/153.0.0.54.88;]
+IP: 202.51.88.46 TIME: Jan 2 12:44:23 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+IP: 8.37.232.179 TIME: Jan 2 12:51:29 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; U; Android 7.0; en-US; MI 5 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.5.0.1015 Mobile Safari/537.36
+IP: 27.34.104.183 TIME: Jan 2 13:53:54 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+IP: 163.47.149.190 TIME: Jan 2 16:14:18 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+IP: 13.56.229.65 TIME: Jan 2 18:14:59 2018 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36

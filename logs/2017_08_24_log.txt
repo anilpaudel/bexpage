@@ -1,0 +1,12 @@
+IP: 66.102.6.158 TIME: Aug 24 3:49:32 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 27.34.16.154 TIME: Aug 24 5:55:05 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+IP: 27.34.16.154 TIME: Aug 24 6:00:53 2017 REFERRER: https://www.google.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+IP: 27.34.16.154 TIME: Aug 24 6:16:17 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+IP: 110.34.22.45 TIME: Aug 24 6:31:23 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+IP: 173.252.85.220 TIME: Aug 24 13:05:11 2017 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 110.34.10.249 TIME: Aug 24 13:05:21 2017 REFERRER: https://www.facebook.com/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+IP: 27.34.17.64 TIME: Aug 24 13:37:18 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.107 Mobile Safari/537.36
+IP: 27.34.17.64 TIME: Aug 24 13:52:25 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1.1; Redmi 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.107 Mobile Safari/537.36
+IP: 27.34.17.64 TIME: Aug 24 13:54:30 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+IP: 110.34.22.45 TIME: Aug 24 14:11:38 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+IP: 27.34.16.228 TIME: Aug 24 14:59:54 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393

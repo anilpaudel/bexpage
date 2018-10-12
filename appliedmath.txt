@@ -1,0 +1,79 @@
+APPLIED MATHEMATICS
+SH 551
+Lecture : 3 Year : II
+Tutorial : 1 Part : II
+Practical : 0
+Course Objective
+This course focuses on several branches of applied mathematics. The students
+are exposed to complex variable theory and a study of the Fourier and
+Z‐Transforms, topics of current importance in signal processing. The course
+concludes with studies of the wave and heat equations in Cartesian and polar
+coordinates.
+1. Complex Analysis (18 hours)
+1.1 Complex Analytic Functions
+1.1.1 Functions and sets in the complex plane
+1.1.2 Limits and Derivatives of complex functions
+1.1.3 Analytic functions. The Cauchy –Riemann equations
+1.1.4 Harmonic functions and it’s conjugate
+1.2 Conformal Mapping
+1.2.1 Mapping
+1.2.2 Some familiar functions as mappings
+1.2.3 Conformal mappings and special linear functional
+transformations
+1.2.4 Constructing conformal mappings between given domains
+1.3 Integral in the Complex Plane
+1.3.1 Line integrals in the complex plane
+1.3.2 Basic Problems of the complex line integrals
+1.3.3 Cauchy’s integral theorem
+1.3.4 Cauchy’s integral formula
+1.3.5 Supplementary problems
+1.4 Complex Power Series, Complex Taylor series and Lauren series
+1.4.1 Complex power series
+1.4.2 Functions represented by power series
+1.4.3 Taylor series, Taylor series of elementary functions
+1.4.4 Practical methods for obtaining power series, Laurent
+series
+1.4.5 Analyticity at infinity, zeros, singularities, residues, Cauchy's
+residue theorem
+1.4.6 Evaluation of real integrals
+2. The Z‐Transform (9 hours)
+2.1 Introduction
+2.2 Properties of Z‐Transform
+2.3 Z‐ transform of elementary functions
+2.4 Linearity properties
+2.5 First shifting theorem, second shifting theorem, Initial value
+theorem,
+2.6 Final value theorem, Convolution theorem
+2.7 Some standard Z‐ transform
+2.8 Inverse Z‐Transform
+2.9 Method for finding Inverse Z‐Transform
+2.10 Application of Z‐Transform to difference equations
+3. Partial Differential Equations (12 hours)
+3.1 Linear partial differential equation of second order, their
+classification and solution
+3.2 Solution of one dimensional wave equation, one dimensional heat
+equation, two dimensional heat equation and Laplace equation
+(Cartesian and polar form) by variable separation method
+4. Fourier Transform (6 hours)
+4.1 Fourier integral theorem, Fourier sine and cosine integral;
+complex form of Fourier integral
+4.2 Fourier transform, Fourier sine transform, Fourier cosine
+transform and their properties
+4.3 Convolution, Parseval’s identity for Fourier transforms
+4.4 Relation between Fourier transform and Laplace transform
+References:
+1. E. Kreyszig, “Advance Engineering Mathematics”, Fifth Edition, Wiley,
+New York.
+2. A. V. Oppenheim, “Discrete‐Time Signal Processing”, Prentice Hall, 1990.
+3. K. Ogata, “Discrete‐Time Control System”, Prentice Hall, Englewood
+Cliffs, New Jersey, 1987.
+Evaluation Scheme
+The questions will cover all the chapters of the syllabus. The evaluation scheme
+will be as indicated in the table below:
+Chapter Hour Marks distribution*
+1 18 30
+2 9 20
+3 12 20
+4 6 10
+Total 45 80
+*There may be minor deviation in marks distribution.

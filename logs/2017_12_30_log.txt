@@ -1,0 +1,2 @@
+IP: 37.9.113.105 TIME: Dec 30 19:43:13 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+IP: 95.108.213.28 TIME: Dec 30 19:43:13 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
