@@ -1,0 +1,32 @@
+IP: 66.220.149.10 TIME: Jan 23 13:12:31 2019 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 66.220.149.28 TIME: Jan 23 13:12:33 2019 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 66.220.149.30 TIME: Jan 23 13:12:33 2019 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 66.220.149.26 TIME: Jan 23 13:12:33 2019 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 66.220.149.1 TIME: Jan 23 13:12:33 2019 REFERRER:  SEARCHSTRING:  USERAGENT: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+IP: 110.34.31.28 TIME: Jan 23 13:12:39 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:13:14 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:13:24 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:13:32 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:13:39 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:13:44 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR00b2hp4WAxnZ3YTBUPvlpLX93M6JXAdLpA70o_seiqrsbRFahrob6QuWM USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:17:10 2019 REFERRER: http://www.anilpaudel.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:21:03 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:21:14 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 23 13:21:24 2019 REFERRER: http://www.anilpaudel.com.np/dot/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 103.5.150.3 TIME: Jan 23 14:04:24 2019 REFERRER: https://l.facebook.com/ SEARCHSTRING: fbclid=IwAR2cigoe2vj-cXtVebdHip0swIM2XOPNIojqMRtRXIGsw1k7xCbLO5FxY0o USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 103.5.150.3 TIME: Jan 23 14:04:40 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 103.5.150.130 TIME: Jan 23 14:23:05 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.3 TIME: Jan 23 14:23:12 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:23:52 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:24:02 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:24:40 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:25:20 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.3 TIME: Jan 23 14:26:14 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:26:39 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:27:57 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:28:07 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:28:17 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.130 TIME: Jan 23 14:29:27 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+IP: 103.5.150.3 TIME: Jan 23 16:17:42 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 192.168.0.12 TIME: Jan 23 16:52:01 2019 REFERRER:  SEARCHSTRING:  USERAGENT: avast! Antivirus
+IP: 192.168.0.12 TIME: Jan 23 16:52:01 2019 REFERRER:  SEARCHSTRING:  USERAGENT: avast! Antivirus

@@ -1,0 +1,1 @@
+IP: ::1 TIME: Dec 5 17:52:12 2018 REFERRER: http://localhost/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0

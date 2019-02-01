@@ -1,0 +1,7 @@
+IP: 110.34.31.28 TIME: Jan 19 4:38:52 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 19 6:34:00 2019 REFERRER: http://www.anilpaudel.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+IP: 27.34.104.238 TIME: Jan 19 6:54:09 2019 REFERRER: http://www.anilpaudel.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 27.34.104.238 TIME: Jan 19 6:56:38 2019 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 19 8:08:50 2019 REFERRER: http://www.anilpaudel.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 110.34.31.28 TIME: Jan 19 12:32:39 2019 REFERRER: http://www.anilpaudel.com.np/ SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+IP: 192.168.0.12 TIME: Jan 19 16:25:51 2019 REFERRER:  SEARCHSTRING:  USERAGENT: avast! Antivirus

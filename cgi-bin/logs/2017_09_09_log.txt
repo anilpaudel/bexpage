@@ -1,0 +1,18 @@
+IP: 66.249.66.204 TIME: Sep 9 1:51:37 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.66.204 TIME: Sep 9 2:08:33 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 64.233.173.24 TIME: Sep 9 5:36:25 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1; Lenovo P1ma40 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.107 Mobile Safari/537.36
+IP: 64.233.172.136 TIME: Sep 9 6:19:55 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 66.102.6.175 TIME: Sep 9 6:28:15 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 27.34.104.240 TIME: Sep 9 9:42:35 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 110.34.22.45 TIME: Sep 9 10:01:14 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 110.44.124.123 TIME: Sep 9 12:28:51 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 64.233.173.26 TIME: Sep 9 12:32:02 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 5.1; Lenovo P1ma40 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36
+IP: 103.5.150.130 TIME: Sep 9 16:14:11 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+IP: 103.5.150.130 TIME: Sep 9 16:15:41 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+IP: 110.34.22.45 TIME: Sep 9 18:08:16 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 113.199.218.43 TIME: Sep 9 18:39:53 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 113.199.218.43 TIME: Sep 9 18:40:05 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101 Safari/537.36
+IP: 113.199.218.43 TIME: Sep 9 18:40:06 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101 Safari/537.36
+IP: 27.34.17.42 TIME: Sep 9 18:40:14 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 113.199.218.43 TIME: Sep 9 19:11:15 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 64.233.172.132 TIME: Sep 9 19:58:36 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon

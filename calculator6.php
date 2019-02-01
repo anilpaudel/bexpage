@@ -102,53 +102,38 @@ p {
 
 
                         <tr>
-                            <td>Project Management</td>
-                            <td><a href="project_management.txt">Click here</a></td>
-                            <td><a href=" https://drive.google.com/open?id=1QduB9NHEhPWS50OHPtUEqKdyQP9h6KJr">Click Here</a></td>
+                            <td>Signal Analysis</td>
+                            <td><a href="SignalAnalysis.txt">Click here</a></td>
+                            <td><a href=" https://drive.google.com/drive/folders/1v-lLoNrR33lStsWNgk1498VS1htzyeE3">Click Here</a></td>
 
                         </tr>
 <tr>
-                            <td>Organization And Management</td>
-                            <td><a href="organization_and_management.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1mpJfoLES4aB4rJ8vviPNHMYkSS4OIEHP">Click Here</a></td>
+                            <td>Propagation and antenna</td>
+                            <td><a href="PropagationAntenna.txt">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/1xT2BhSNgStIHQkPaZtdDlbAoPY4ofO-L">Click Here</a></td>
 
                         </tr>
 <tr>
-                            <td>Energy Environment And Society</td>
-                            <td><a href="energy_environment_and_society.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1Qg_TGiDHGp2IpxpRF8vWw_8UuH2RZd8Q">Click Here</a></td>
+                            <td>Communication System-I</td>
+                            <td><a href="Communication-I.txt">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/1KHOdVNFsFvj7SuL9RF7n1lW-HQ_pu1qN">Click Here</a></td>
 
                         </tr><tr>
-                            <td>Filter Design</td>
-                            <td><a href="filter_design.txt">Click here</a></td>
-                            <td> <a href="https://drive.google.com/open?id=1Nw8D1BXfNqfJe6tljGZtTTt9Q0Uou7fp">Click Here</a></td>
+                            <td>Computer Network</td>
+                            <td><a href="ComputerNetwork.txt">Click here</a></td>
+                            <td> <a href="https://drive.google.com/drive/folders/1kATYaTvFpebrY0jamfSeLFqpYGqjr_0Y">Click Here</a></td>
 
                         </tr><tr>
-                            <td>Telecommunication</td>
-                            <td><a href="telecommunication.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1WCAwHPssmTwytRYrfZKjA1_EDhn5iNkY"
+                            <td>Engineering Economics</td>
+                            <td><a href="economics.txt">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/1uQM8qIdgq4Ti4mRm9iVtE-OQa91YFtVr"
                             >Click Here</a></td>
 
                         </tr><tr>
-                            <td>Communication System II</td>
-                            <td><a href="communication_system_ii.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1ff_8dCPBYIp8HxuZfIv-FoTpV_QuckkV">Click Here</a></td>
-						
-						<tr>
-                            <td>Data Mining</td>
-                            <td><a href="data_mining.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1Cuj0tqsX5VclY9HoVao_xqCR6Jx5cQg_"
-                            >Click Here</a></td>
-                        </tr>
-						
-						<tr>
-                            <td>Project</td>
-                            <td><a href="project.txt">!Click here</a></td>
-                            <td><a href="www.anilpaudel.com.np"
-                            >Click Here</a></td>
-                        </tr>
-						
-    
+                            <td>Embedded System</td>
+                            <td><a href="embedded.txt">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/u/2/folders/1e7SKQeQ5WNv3CJEwKKCGYTeK674g7g7X">Click Here</a></td>
+                      </tr>
 
 
 

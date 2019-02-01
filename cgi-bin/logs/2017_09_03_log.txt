@@ -1,0 +1,7 @@
+IP: 27.34.104.239 TIME: Sep 3 3:03:56 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+IP: 66.249.76.138 TIME: Sep 3 3:17:52 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.69.44 TIME: Sep 3 16:29:53 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 27.34.20.88 TIME: Sep 3 16:35:30 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+IP: 64.233.172.134 TIME: Sep 3 17:19:36 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+IP: 66.249.69.42 TIME: Sep 3 23:38:25 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+IP: 66.249.76.140 TIME: Sep 3 23:52:09 2017 REFERRER:  SEARCHSTRING:  USERAGENT: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)

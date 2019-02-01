@@ -1,0 +1,107 @@
+
+COMPUTER ORGANIZATION AND ARCHITECTURE
+CT
+Lecture : 3 Year : III
+Tutorial : 1 Part : I
+Practical : 1.5
+Course objectives:
+To provide the organization, architecture and designing concept of computer
+system including processor architecture, computer arithmetic, memory system,
+I/O organization and multiprocessors.
+1. Introduction (3 hours)
+1.1. Computer organization and architecture
+1.2. Structure and function
+1.3. Designing for performance
+1.4. Computer components
+1.5. Computer Function
+1.6. Interconnection structures
+1.7. Bus interconnection
+1.8. PCI
+2. Central processing Unit (10 hours)
+2.1. CPU Structure and Function
+2.2. Arithmetic and logic Unit
+2.3. Instruction formats
+2.4. Addressing modes
+2.5. Data transfer and manipulation
+2.6. RISC and CISC
+2.7. 64-Bit Processor
+3. Control Unit (6 hours)
+3.1. Control Memory
+3.2. Addressing sequencing
+3.3. Computer configuration
+3.4. Microinstruction Format
+3.5. Symbolic Microinstructions
+3.6. Symbolic Micro program
+3.7. Control Unit Operation
+3.8. Design of control unit
+4. Pipeline and Vector processing (5 hours)
+4.1. Pipelining
+4.2. Parallel processing
+4.3. Arithmetic Pipeline
+4.4. Instruction Pipeline
+4.5. RISC pipeline
+4.6. Vector processing
+4.7. Array processing
+5. Computer Arithmetic (8 hours)
+5.1. Addition algorithm
+5.2. Subtraction algorithm
+5.3. Multiplication algorithm
+5.4. Division algorithms
+5.5. Logical operation
+6. Memory system (5 hours)
+6.1. Microcomputer Memory
+6.2. Characteristics of memory systems
+6.3. The Memory Hierarchy
+6.4. Internal and External memory
+6.5. Cache memory principles
+6.6. Elements of Cache design
+5.1.1 Cache size
+5.1.2 Mapping function
+5.1.3 Replacement algorithm
+5.1.4 Write policy
+5.1.5 Number of caches
+7. Input‐Output organization ( 6 hours)
+7.1. Peripheral devices
+7.2. I/O modules
+7.3. Input‐output interface
+7.4. Modes of transfer
+7.4.1. Programmed I/O
+7.4.2. Interrupt‐driven I/O
+7.4.3. Direct Memory access
+7.5. I/O processor
+7.6. Data Communication processor
+8. Multiprocessors ( 2 hours)
+8.1. Characteristics of multiprocessors
+8.2. Interconnection Structures
+8.3. Interprocessor Communication and synchronization
+Practical:
+1. Add of two unsigned Integer binary number
+2. Multiplication of two unsigned Integer Binary numbers by Partial‐Product
+Method
+3. Subtraction of two unsigned integer binary number
+4. Division using Restoring
+5. Division using non‐ restoring methods
+6. To simulate a direct mapping cache
+References:
+1. M. Morris Mano: Computer System Architecture, Latest Edition
+2. William Stalling: Computer organization and architecture, Latest Edition
+3. John P. Hayes: Computer Architecture and Organization, Latest Edition
+4. V.P. Heuring, H.F. Jordan: Computer System design and architecture, Latest Edition
+5. S. Shakya: Lab Manual on Computer Architecture and design
+Evaluation Scheme:
+The question will cover all the chapters of the syllabus. The evaluation scheme
+will be as indicated in the table below:
+Chapters Hours
+Marks
+distribution *
+1 3 6
+2 10 18
+3 6 10
+4 5 10
+5 8 14
+6 5 8
+7 6 10
+8 2 4
+Total 45 80
+*There may be minor variation in marks distribution.
+

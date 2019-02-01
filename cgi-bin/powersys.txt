@@ -1,0 +1,89 @@
+POWER SYSTEM
+EE 553
+Lecture : 3 Year : II
+Tutorial : 1 Part : II
+Practical : 0
+Course Objectives:
+The course aim to deliver the principle and fundamental analysis techniques for
+generation, transmission and distribution components of a power system with
+basic protection system.
+1. General Background (4 hours)
+1.1 Power System Evolution
+1.2 Generation, Transmission and Distribution Components
+1.3 Major electrical components in power station; alternators,
+transformers, bus bars, voltage regulators, switch and isolators,
+metering and control panels
+1.4 Voltage levels, AC vs DC Transmission
+1.5 Single phase and three phase power delivery
+1.6 Single line diagram representation of a power system
+2. Mechanical consideration of Transmission (8 hours)
+2.1 Overhead Lines
+2.1.1 Line supports, spacing between conductors
+2.1.2 Calculation of sag, equal and unequal supports, effect of
+ice and wind loadings
+2.1.3 Application of G.P.S system
+2.2 Underground cables
+2.2.1 Classification, construction of cables, insulation
+resistance
+2.2.2 Dielectric stress in single core/multi core cables
+2.2.3 Cable faults and location of faults
+3. Line parameter calculations (10 hours)
+3.1 Inductance, resistance and capacitance of a line
+3.2 Inductance of line due to internal & external flux linkages
+3.3 Skin & proximity effect
+3.4 Inductance of single phase two wire line, stranded & bundled
+conductor consideration, concept of G.M.R and G. M.D,
+inductance of 3 phase line; equilateral and unsymmetrical spacing
+3.5 Transposition, inductance of double circuit 3 phase lines
+3.6 Concept of G.M.R and G. M.D for capacitance calculations
+3.7 Capacitance calculations of single phase two wire line, stranded &
+bundled conductor consideration, capacitance of 3 phase line;
+equilateral and unsymmetrical spacing, double circuit
+3.8 Earth effect in capacitance of a line
+4. Transmission line performance analysis (6 hours)
+4.1 Classification of a lines based on short, medium and long lines
+4.2 Representation of ‘Tee’ and ‘Pi’ of medium lines; calculation of
+ABCD parameters
+4.3 Per unit system; advantage and applications
+4.4 Voltage regulation & efficiency calculation of transmission lines
+4.5 Transmission line as source and sink of reactive power
+4.6 Real and reactive power flow through lines
+4.7 Surge impedance loading
+4.8 Reactive compensation of transmission lines
+5. Interconnected power system (5 hours)
+5.1 Real power/ frequency balance
+5.2 Reactive power/ voltage balance
+5.3 Computer application in Interconnected power system
+5.4 Basic concept of Power system Load flow
+6. Distribution System (6 hours)
+6.1 Distribution system terminology
+6.2 Distribution transformer & Load centers
+6.3 Rural vs urban distribution
+6.4 Radial, loop & network distribution
+6.5 Voltage drop computation in a radial Dc & Ac distribution
+7. Introduction to power system protection (6 hours)
+7.1 Power system faults & protection principle
+7.2 Fuse as a protection device
+7.3 Relays; working and types
+7.4 Circuit breaker; working and types
+7.5 Basic protection schemes for generators, motors, transformers
+and transmission lines
+7.6 Basic concept of power line carrier communication (PLCC)
+References:
+1 W.D. Stevension “Power System Analysis “ Tata McGraw Hill
+Publications
+2 S.N. Singh “Electric power Generation, Transmission & Distribution”
+Prentece Hall
+Evaluation Scheme:
+The questions will cover all the chapters of the syllabus. The evaluation
+scheme will be as indicated in the table below:
+Chapters Hours Marks distribution*
+1 4 8
+2 8 12
+3 10 16
+4 6 12
+5 5 8
+6 6 12
+7 6 12
+Total 45 80
+*There could be a minor deviation in Marks distribution

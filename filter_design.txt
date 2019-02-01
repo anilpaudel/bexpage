@@ -1,0 +1,113 @@
+
+
+FILTER DESIGN
+EX 704
+Lecture : 3 Year : IV
+Tutorial : 1 Part : I
+Practical : 1.5
+Course Objective:
+To familiarize student with the concept of analog filter design: passive filters,
+RC active filters and switched-capacitor filters
+1. Introduction [4 hours]
+1.1. Filter and its importance in communication
+1.2. Kinds of filters in terms of frequency response
+1.3. Ideal response and response of practical filters
+1.4. Normalization and denormalization in filter design
+1.5. Impedance (magnitude) scaling and frequency scaling
+1.6. History of filter design and available filter technologies
+2. Approximation Methods [8 hours]
+2.1. Approximation and its importance in filter design
+2.2. Lowpass approximations methods
+2.3. Butterworth response, Butterworth pole locations, Butterworth filter
+design from specifications
+2.4. Chebyshev and inverse Chebyshev characteristics, network functions
+and pole zero locations
+2.5. Characteristics of Cauer (elliptic) response
+2.6. Bessel-Thomson approximation of constant delay
+2.7. Delay Equalization
+3. Frequency transformation [2 hours]
+3.1. Frequency transformation and its importance in filter design
+3.2. Lowpass to highpass transformation
+3.3. Lowpass to bandpass transformation and
+3.4. Lowpass to bandstop transformation
+4. Properties and Synthesis of Passive Networks [7 hours]
+4.1. One-port passive circuits
+4.1.1. Properties of passive circuits, positive real functions
+4.1.2. Properties of lossless circuits
+4.1.3. Synthesis of LC one-port circuits, Foster and Cauer circuits
+4.1.4. Properties and synthesis of RC one-port circuits
+4.2. Two-port Passive Circuits
+4.2.1. Properties of passive two-port circuits, residue condition,
+transmission zeros
+4.2.2. Synthesis of two-port LC and RC ladder circuits based on zeroshifting
+by partial pole removal
+5. Design of Resistively-Terminated Lossless Filter [4 hours]
+5.1. Properties of resistively-terminated lossless ladder circuits,
+transmission and reflection coefficients
+5.2. Synthesis of LC ladder circuits to realize all-pole lowpass functions
+5.3. Synthesis of LC ladder circuits to realize functions with finite
+transmission zeros
+6. Active Filter [7 hours]
+6.1. Fundamentals of Active Filter Circuits
+6.1.1. Active filter and passive filter
+6.1.2. Ideal and real operational amplifiers, gain-bandwidth product
+6.1.3. Active building blocks: amplifiers, summers, integrators
+6.1.4. First order active sections using inverting and non-inverting opamp
+configuration
+6.2. Second order active sections (biquads)
+6.2.1. Tow-Thomas biquad circuit, design of active filter using TowThomas
+biquad
+6.2.2. Sallen-Key biquad circuit and Multiple-feedback biquad (MFB)
+circuit
+6.2.3. Gain reduction and gain enhancement
+6.2.4. RC-CR transformation
+7. Sensitivity [3 hours]
+7.1. Sensitivity and importance of sensitivity analysis
+7.2. Definition of single parameter sensitivity
+7.3. Centre frequency and Q-factor sensitivity
+7.4. Sensitivity properties of biquads
+7.5. Sensitivity of passive circuits
+8. Design of High-Order Active Filters [6 hours]
+8.1. Cascade of biquads
+8.1.1. Sequencing of filter blocks, center frequency, Q-factor and gain
+8.2. Active simulation of passive filters
+8.2.1. Ladder design with simulated inductors
+8.2.2. Ladder design with frequency-dependent negative resistors
+(FDNR)
+8.2.3. Leapfrog simulation of ladders
+9. Switched-Capacitor Filters [4 hours]
+9.1. The MOS switch and switched capacitor
+9.2. Simulation of resistor by switched capacitor
+9.3. Switched-capacitor circuits for analog operations: addition,
+subtraction, multiplication and integration
+9.4. First-order and second-order switched-capacitor circuits
+Practical:
+The laboratory experiments consist computer simulation as well hardware
+realization for analysis and design of passive and active filters which include.
+ Analysis and design of passive & active filter circuits using computer
+simulation
+ Design of active filters using biquad circuits
+ Design of higher order active filters using inductor simulation
+ Design of higher order active filters using functional simulation
+References:
+1. Design of Analog Filters By: Rolf Schaumann, Mac E. Van Valkenburg
+2. Passive and Active Filters (Theory and Implementations) By: Wai-Kai Chen
+3. Analog Filter, Kendal L Su
+Evaluation Scheme:
+There will be eight to ten questions covering the curriculum. The evaluation
+scheme for the course will be indicated in the table below.
+Unit Hour Marks
+Distribution*
+1 4 7
+2 8 14
+3 2 4
+4 7 13
+5 4 7
+6 7 12
+7 3 5
+8 6 11
+9 4 7
+Total 45 80
+* There may be minor deviation in marks distribution.
+
+

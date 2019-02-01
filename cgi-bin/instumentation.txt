@@ -1,0 +1,112 @@
+INSTRUMENTATION I
+EE 552
+Lecture : 3 Year : II
+Tutorial : 1 Part : II
+Practical : 3/2
+Course Objectives:
+Comprehensive treatment of methods and instrument for a wide range of
+measurement problems.
+1. Instrumentations Systems (2 hours)
+1.1 Functions of components of instrumentation system
+introduction, signal processing , Signal transmission ,output
+indication
+1.2 Need for electrical, electronics, pneumatic and hydraulic working
+media systems and conversion devices
+1.3 Analog and digital systems
+2. Theory of measurement (10 hours)
+2.1 Static performance parameters ‐ accuracy, precision, sensitivity,
+resolution and linearity
+2.2 Dynamic performance parameters ‐ response time, frequency
+response and bandwidth
+2.3 Error in measurement
+2.4 Statistical analysis of error in measurement
+2.5 Measurement of voltage & current (moving coil & moving iron
+instruments)
+2.6 Measurement of low, high & medium resistances
+2.7 AC bridge & measurement of inductance and capacitance
+3. Transducer (8 hours)
+3.1 Introduction
+3.2 Classification
+3.3 Application
+3.3.1 Measurement of mechanical variables, displacement,
+strain. velocity. acceleration and vibration
+3.3.2 Measurement of process variables ‐ temperature
+pressure, level, fluid flow, chemical constituents in gases
+or liquids, pH and humidity.
+3.3.3 Measurement of bio‐physical variables blood pressure and
+myoelectric potentials
+4. Electrical Signal Processing and transmission (6 hours)
+4.1 Basic Op‐amp characteristics
+4.2 Instrumentation amplifier
+4.3 Signal amplification, attenuation, integration, differentiation,
+network isolation, wave shaping
+4.4 Effect of noise, analog filtering, digital filtering
+4.5 Optical communication, fibre optics, electro‐optic conversion
+devices
+5. Analog ‐ Digital and Digital ‐ Analog Conversion (6 hours)
+5.1 Analog signal and digital signal
+5.2 Digital to analog convertors ‐ weighted resistor type, R‐2R ladder
+type, DAC Errors
+5.3 Analog to digital convertors ‐ successive approximation type,
+ramp type, dual ramp type, flash type, ADC errors
+6. Digital Instrumentation (5 hours)
+6.1 Sample data system, sample and hold circuit
+6.2 Components of data acquisition system
+6.3 Interfacing to the computer
+7. Electrical equipment (8 hours)
+7.1 Wattmeter
+7.1.1 types
+7.1.2 working principles
+7.2 Energy meter
+7.2.1 types
+7.2.2 working principles
+7.3 Frequency meter
+7.3.1 types
+7.3.2 working principles
+7.4 Power factor meter
+7.5 Instrument transformers
+Practical:
+1. Accuracy test in analog meters
+2. Operational Amplifiers in Circuits
+- Use of Op amp as a summer, inverter, integrator and
+differentiator
+3. Use resistive, inductive and capacitive transducers to measure
+displacement
+- Use strain gauge transducers to measure force
+4. Study of Various transducers for measurement of Angular
+displacement, Angular Velocity, Pressure and Flow
+- Use optical, Hall effect and inductive transducer to measure
+angular displacement
+- Use tacho ‐ generator to measure angular velocity
+- Use RTD transducers to measure pressure and flow
+5. Digital to Analog Conversion
+- Perform static testing of D/A converter
+6. Analog to Digital Conversion
+- Perform static testing of A/D converter
+References:
+1. D.M Considine "Process Instruments and Controls Handbook" third
+edition McGraw Hill, 1985
+2. S. Wolf and R.F.M. Smith "Students Reference Manual for Electronics
+Instrumentation Laboratories", Prentice Hall, 1990
+3. E.O Deobelin "Measurement System, Application and Design" McGraw
+Hill, 1990
+4. A.K Sawhney "A Course in Electronic Measurement and
+Instrumentation " Dhanpat Rai and Sons,1988
+5. C.S. Rangan, G.R Sharma and V.S.V. Mani, "Instrumentation Devices and
+Systems" Tata McGraw Hill publishing Company Limited New
+Delhi,1992.
+6. J.B. Gupta. "A Course in Electrical & Electronics Measurement &
+Instrumentation, thirteenth edition, 2008, Kataria & Sons.
+Evaluation Scheme:
+The questions will cover all the chapters of the syllabus. The evaluation scheme
+will be as indicated in the table below:
+Chapters Hours Marks distribution*
+1 2 6
+2 10 16
+3 8 16
+4 6 10
+5 6 10
+6 5 10
+7 8 12
+Total 45 80
+* There could be a minor deviation in the marks distribution.

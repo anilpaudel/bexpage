@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php
-$login_code="log in";
-session_start();
-if(!isset($_SESSION['login_flag']))
-{
-	$_SESSION['login_flag']=false;
-}
-if($_SESSION['login_flag']==true)
-{
-	$login_code="log out";
-}
-else
-{
-	$login_code="Log in";
-}
-?>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,9 +16,7 @@ else
             </div>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav">
-                    <li class="active" role="presentation"><a href="#">Home</a></li>
-                    <li class="active" role="presentation"><a href="bex/event.php">Events </a></li>
-                    <li class="active" role="presentation"><a href="login.html"><?php echo $login_code ?> </a></li>
+                    <li class="active" role="presentation"><a href="#">Home </a></li>
                 </ul>
             </div>
         </div>
@@ -42,21 +25,21 @@ else
         <div class="jumbotron">
 <font color="green">
             <h1><strong> Welcome To BEX Page </strong> </h1>
-
+             
 </font>
 <?php
- $handle = fopen("counter.txt", "r");
+ $handle = fopen("counter.txt", "r"); 
  if(!$handle)
- {
+ { 
 	 echo "could not open the file" ;
- }
+ } 
  else
  { $counter = ( int ) fread ($handle,20) ;
  fclose ($handle) ;
  $counter++;
  echo" visits:  <strong> $counter </strong>  " ;
  $handle = fopen("counter.txt", "w" ) ;
- fwrite($handle,$counter) ;
+ fwrite($handle,$counter) ; 
  fclose ($handle) ; }
  ?>
 <font color="red">
@@ -64,7 +47,7 @@ else
 $txt1=date("Y/m/d");
 $txt2=date("d");
 $togo=-$txt2+11;
-//echo "<h3><strong> </strong>$REMOTE_ADDR Have great holidays and  Happy Dashain!!</h3>";
+echo "<h3><strong> </strong>$REMOTE_ADDR Have great holidays and  Happy Dashain!!</h3>";
 ?>
 </font>
 <style>
@@ -80,7 +63,7 @@ p {
 <br>
 
 <br>
-
+<iframe align="left" scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:100;width:150px;height:150px;"src="http://www.clocklink.com/html5embed.php?clock=024&timezone=GMT0545&color=black&size=150&Title=&Message=&Target=&From=2017,1,1,0,0,0&Color=black"></iframe>
 
             <p></p>
         </div>
@@ -94,61 +77,51 @@ p {
                             <th>Subject </th>
                             <th>Syllabus </th>
                             <th>Tutorials </th>
-
+                   
                         </tr>
                     </thead>
                     <tbody>
-
-
-
+                  
+                       
+                        
                         <tr>
-                            <td>Project Management</td>
-                            <td><a href="project_management.txt">Click here</a></td>
-                            <td><a href=" https://drive.google.com/open?id=1QduB9NHEhPWS50OHPtUEqKdyQP9h6KJr">Click Here</a></td>
-
+                            <td>Communication English</td>
+                            <td><a href="English.html">Click here</a></td>
+                            <td><a href=" https://drive.google.com/drive/folders/0B5ZPDEatT6ZCSUJYV2ZfZ0lIcEU">Click here</a></td>
+                      
                         </tr>
 <tr>
-                            <td>Organization And Management</td>
-                            <td><a href="organization_and_management.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1mpJfoLES4aB4rJ8vviPNHMYkSS4OIEHP">Click Here</a></td>
-
+                            <td>Probability and Statistics</td>
+                            <td><a href="Probability.html">Click here</a></td>
+                            <td>Stay tuned</td>
+                      
                         </tr>
 <tr>
-                            <td>Energy Environment And Society</td>
-                            <td><a href="energy_environment_and_society.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1Qg_TGiDHGp2IpxpRF8vWw_8UuH2RZd8Q">Click Here</a></td>
-
+                            <td>Computer Organization and Architecture</td>
+                            <td><a href="ComputerArchitecture.html">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/0B5ZPDEatT6ZCWk9iektHMWtxYVk">Click here</a></td>
+                      
                         </tr><tr>
-                            <td>Filter Design</td>
-                            <td><a href="filter_design.txt">Click here</a></td>
-                            <td> <a href="https://drive.google.com/open?id=1Nw8D1BXfNqfJe6tljGZtTTt9Q0Uou7fp">Click Here</a></td>
-
+                            <td>Control System</td>
+                            <td><a href="ControlSystem.html">Click here</a></td>
+                            <td>Stay tuned</td>
+                      
                         </tr><tr>
-                            <td>Telecommunication</td>
-                            <td><a href="telecommunication.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1WCAwHPssmTwytRYrfZKjA1_EDhn5iNkY"
-                            >Click Here</a></td>
-
+                            <td>Advanced Electronics</td>
+                            <td><a href="AdvancedElectronics.html">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/0B7qj9HVCZ9ljcjdjZ3FmcUNSWEE">Click here</a></td>
+                      
                         </tr><tr>
-                            <td>Communication System II</td>
-                            <td><a href="communication_system_ii.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1ff_8dCPBYIp8HxuZfIv-FoTpV_QuckkV">Click Here</a></td>
-						
-						<tr>
-                            <td>Data Mining</td>
-                            <td><a href="data_mining.txt">Click here</a></td>
-                            <td><a href="https://drive.google.com/open?id=1Cuj0tqsX5VclY9HoVao_xqCR6Jx5cQg_"
-                            >Click Here</a></td>
+                            <td>Instumentation II</td>
+                            <td><a href="InstumentationII.html">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/0B7qj9HVCZ9ljWkFNSC1JeGowMjQ">Click here</a></td>
+                      
+                        </tr><tr>
+                            <td>Computer Graphics</td>
+                            <td><a href="Graphics.html">Click here</a></td>
+                            <td><a href="https://drive.google.com/drive/folders/0B5ZPDEatT6ZCMWpuWUxzT0s5Vms">Click here</a></td>
+                      
                         </tr>
-						
-						<tr>
-                            <td>Project</td>
-                            <td><a href="project.txt">!Click here</a></td>
-                            <td><a href="www.anilpaudel.com.np"
-                            >Click Here</a></td>
-                        </tr>
-						
-    
 
 
 
@@ -191,25 +164,24 @@ function gObj(obj) {var theObj;if(document.all){if(typeof obj=="string"){return 
 <a href="puzzle.html"><font color="green">Puzzle Game(*must play) click here</font></a><br>
 <a href="playgames.html"><font color="red">Play games like chess Click here</font></a>
 <br>
-<iframe align="left" scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:100;width:150px;height:150px;"src="http://www.clocklink.com/html5embed.php?clock=024&timezone=GMT0545&color=black&size=150&Title=&Message=&Target=&From=2017,1,1,0,0,0&Color=black"></iframe>
 <?php
-
+ 
 //ASSIGN VARIABLES TO USER INFO
-$time = date("M j G:i:s Y");
+$time = date("M j G:i:s Y"); 
 $ip = getenv('REMOTE_ADDR');
 $userAgent = getenv('HTTP_USER_AGENT');
 $referrer = getenv('HTTP_REFERER');
 $query = getenv('QUERY_STRING');
-
+ 
 //COMBINE VARS INTO OUR LOG ENTRY
 $msg = "IP: " . $ip . " TIME: " . $time . " REFERRER: " . $referrer . " SEARCHSTRING: " . $query . " USERAGENT: " . $userAgent;
-
+ 
 //CALL OUR LOG FUNCTION
 writeToLogFile($msg);
-
+ 
 function writeToLogFile($msg) {
-     $today = date("Y_m_d");
-     $logfile = $today."_log.txt";
+     $today = date("Y_m_d"); 
+     $logfile = $today."_log.txt"; 
      $dir = 'logs';
      $saveLocation=$dir . '/' . $logfile;
      if  (!$handle = @fopen($saveLocation, "a")) {
@@ -219,11 +191,11 @@ function writeToLogFile($msg) {
           if (@fwrite($handle,"$msg\r\n") === FALSE) {
                exit;
           }
-
+   
           @fclose($handle);
      }
 }
-
+ 
 ?>
 <br>
 </body>

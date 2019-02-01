@@ -1,0 +1,68 @@
+
+
+ENERGY, ENVIRONMENT AND SOCIETY
+EX 701
+Lecture : 2 Year : IV
+Tutorial : 0 Part : I
+Practical : 0
+Course Objective:
+After the completion of this course students will understand the various types
+of energy sources and their environmental impact. This course is also focused
+on role of engineers for creating better and responsible society.
+1. Technology and Development (3 hours)
+1.1. Introduction to Technology
+1.2. Appropriate Technology
+1.3. Role of Appropriate Technology in Transformation of Society
+1.4. Importance of Technology Transfer
+1.5. Impact of technology on Society
+2. Energy Basics (4 hours)
+2.1. Importance of Energy in achieving Maslow’s hierarchy of Needs,
+Human Development Index and Energy Consumption
+2.2. Current Energy Trends, Demand and Supply of Energy in World and
+Nepal
+2.3. Introduction to Global warming, Clean Development Mechanism, and
+Sustainability Issues
+2.4. Conventional and Non-Conventional/Renewable Energy Sources
+2.5. Conventional Energy Sources: Fossil fuel, Nuclear Energy
+3. Renewable Energy Sources (14 hours)
+3.1. Solar Energy
+3.1.1. Solar radiation
+3.1.2. Solar thermal energy
+3.1.3. Solar Cell (Photovoltaic Technology)
+3.2. Hydropower
+3.2.1. Water sources and power
+3.2.2. Water turbines and hydroelectric plants
+3.2.3. Hydro Power Plant Classification (pico, micro, small, medium, large)
+3.3. Wind Energy
+3.3.1. Availability of Wind Energy sources
+3.3.2. Wind turbines, wind parks and power control
+3.4. Geothermal Energy
+3.4.1. Sources of Geothermal Energy
+3.4.2. Uses of Geothermal Energy
+3.5. Bio-mass and Bio-energy
+3.5.1. Synthetic fuels from the biomass
+3.5.2. Thermo-chemical, physio-chemical and bio-chemical conversion
+3.5.3. Bio-fuel cells
+3.6. Hydrogen Energy and Fuel Cell
+3.6.1. Basics of electrochemistry
+3.6.2. Polymer membrane electrolyte (PEM) fuel cells
+3.6.3. Solid oxide fuel cells (SOFCs)
+3.6.4. Hydrogen production and storage
+3.6.5. Coal-fired plants and integrated gassifier fuel cell (IGFC) systems
+4. Environmental Impact of Energy sources (4 hours)
+4.1. Emission hazard
+4.2. Battery hazard
+4.3. Nuclear hazard
+5. Energy Storage (3 hours)
+5.1. Forms of energy storage
+5.2. Hybrid vehicles
+5.3. Smart grid systems
+5.4. Batteries
+5.5. Super-capacitors
+6. Relevant International/national case studies (2 hours)
+References:
+1. Godfrey Boyle, “Renewable Energy, Power for a sustainable future”, Oxford
+University Press, latest edition
+2. Aldo V. da Rosa, "Fundamentals of Renewable Energy Processes"
+Evaluation Scheme:
+The questions will cover all the units of the syllab
